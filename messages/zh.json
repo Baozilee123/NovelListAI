@@ -1,22 +1,22 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "包子厉害，包子万岁。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "包子的第一个网站平台",
+      "description": "这里是包子的第一个网站平台，学习通过AI来制作部署网站",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "档案生成器",
+        "description": "轻松创建详细的用户档案。"
       },
       "storyStructure": {
         "title": "故事结构",
@@ -34,17 +34,17 @@
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
-        "name": "Sarah Johnson",
+        "name": "肉包子编剧",
         "role": "编剧",
         "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
       },
       "testimonial2": {
-        "name": "Michael Lee",
+        "name": "夏导演",
         "role": "电影导演",
         "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
+        "name": "马制片人",
         "role": "电视制片人",
         "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
       }
@@ -66,7 +66,7 @@
       "helpCenter": "帮助中心",
       "tutorials": "教程",
       "contact": "联系我们",
-      "email": "support@scriptcraft.com",
+      "email": "123456789@qq.com",
       "address1": "123 编剧大道",
       "address2": "好莱坞，加利福尼亚州 90028",
       "cta": "今天开始您的编剧之旅",
@@ -74,7 +74,7 @@
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "学会了部署第一个网站",
       "imageAlt": "ScriptCraft界面"
     }
   },
